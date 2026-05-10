@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_input">请输入</string>
+    <string name="is_loading">加载中…</string>
+    <string name="item_tip">请完整填写本项目信息</string>
+    <string name="count_d">30s</string>
+    <string name="count_f">%ds</string>
+    <string name="screen_projection">投屏      </string>
+    <string name="wc_timing">摄像头计时</string>
+    <string name="sc_timing">鞋卡计时</string>
+    <string name="et_simulator">模拟</string>
+    <string name="et_exam">考核</string>
+    <string name="wd_0">日</string>
+    <string name="wd_1">一</string>
+    <string name="wd_2">二</string>
+    <string name="wd_3">三</string>
+    <string name="wd_4">四</string>
+    <string name="wd_5">五</string>
+    <string name="wd_6">六</string>
+</resources>
