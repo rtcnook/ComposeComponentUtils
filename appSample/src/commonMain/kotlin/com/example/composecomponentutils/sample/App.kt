@@ -18,11 +18,12 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.widgetutilslib.widget.MonthWeekView
 import com.example.widgetutilslib.widget.SpanText
+import com.example.widgetutilslib.theme.AppCustomTheme
 
 @Composable
 @Preview
 fun App() {
-    MaterialTheme {
+    AppCustomTheme {
         var showContent by remember { mutableStateOf(false) }
         Column(
             modifier = Modifier
